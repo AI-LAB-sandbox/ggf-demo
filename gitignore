@@ -2,8 +2,6 @@
 # https://github.com/github/gitignore/blob/main/Python.gitignore
 
 # custom
-etri_dataset/
-result/
 *.txt
 .pyc
 .pth
